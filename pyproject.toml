@@ -58,7 +58,7 @@ dev = [
     "ruff==0.14.13",
     "types-ujson==5.10.0.20250822",
     "wheel==0.45.1",
-    "ty==0.0.12",
+    "ty==0.0.13",
 ]
 
 [project.scripts]
